@@ -4,17 +4,30 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="4" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="compose logo"  />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img src="https://github.com/arshapshap/arshapshap/assets/48681339/ca1205c6-6259-4e0e-9d54-a910f6c08daf" height="40" alt="database logo"  />
+  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="4" />
+  <img src="https://github.com/arshapshap/arshapshap/assets/48681339/ca1205c6-6259-4e0e-9d54-a910f6c08daf" height="40" alt="database logo"  />
   <br>
+  <img src="https://img.shields.io/badge/coroutines-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white" alt="coroutines badge"  />
+  <img src="https://img.shields.io/badge/firebase-ffa000?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase badge"  />
+  <img src="https://img.shields.io/badge/Room-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="room badge"  />
   <br>
-  <img src="https://img.shields.io/badge/Dagger_2-161b22?style=for-the-badge&logo=google&logoColor=white" alt="dagger 2 logo"  />
-  <img src="https://img.shields.io/badge/Koin-161b22?style=for-the-badge&logo=kotlin&logoColor=white" alt="koin logo"  />
-  <img src="https://img.shields.io/badge/Retrofit-161b22?style=for-the-badge&logo=square&logoColor=white" alt="retrofit logo"  />
-  <img src="https://img.shields.io/badge/Room-161b22?style=for-the-badge&logo=android&logoColor=white" alt="git logo"  />
+  <img src="https://img.shields.io/badge/dagger_2-161b22?style=for-the-badge&logo=google&logoColor=white" alt="dagger 2 badge"  />
+  <img src="https://img.shields.io/badge/koin-161b22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iNjY3LjAwMDAwMHB0IiBoZWlnaHQ9IjY2Ny4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDY2Ny4wMDAwMDAgNjY3LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsNjY3LjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iI0ZGRkZGRiIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTMxNjAgNjUyNCBjLTQxNCAtMjggLTc2MiAtMTA3IC0xMDk2IC0yNTAgLTEwOTEgLTQ2NCAtMTgzNCAtMTQ4MAotMTk0NSAtMjY1OCAtMTcgLTE4MyAtNyAtNTk0IDE5IC03NjEgOTEgLTU4MSAzMTMgLTEwOTIgNjcyIC0xNTQ1IDEwNCAtMTMyCjM2NCAtMzkyIDQ5NSAtNDk2IDQ3NSAtMzc2IDk5MyAtNTk1IDE2MDUgLTY4MSAxNTggLTIyIDYxMiAtMjUgNzcwIC01IDcyOCA5MgoxMzU2IDM5MCAxODY5IDg4NyA1NDggNTMxIDg4NiAxMjM2IDk2MCAxOTk5IDE0IDEzOSAxNCA0NzMgMSA2MDcgLTQzIDQzMgotMTc2IDg2OCAtMzc1IDEyMzEgLTUwNSA5MTggLTE0MTUgMTUzNCAtMjQ0NSAxNjUyIC0xMjkgMTUgLTQzMyAyNyAtNTMwIDIwegptNDc1IC03NjAgYzc5OCAtOTcgMTUxNyAtNjAwIDE4NzIgLTEzMDkgbDYwIC0xMjAgLTg1NCAtNTA0IGMtNDY5IC0yNzcgLTg1MgotNTA1IC04NTEgLTUwNiAyIC0xIDM3NyAtMjIyIDgzMyAtNDkwIDQ1NyAtMjY4IDg0MCAtNDkzIDg1MiAtNTAxIGwyMiAtMTQKLTY1IC0xMjggYy0zNzggLTczOCAtMTEyMSAtMTIzNiAtMTk1OCAtMTMxMyAtMTU2IC0xNCAtNDM4IC03IC01ODYgMTYgLTgwMAoxMjIgLTE0OTQgNjMwIC0xODQ1IDEzNTAgLTI0NiA1MDUgLTMxNSAxMDU0IC0xOTkgMTU5NSAxNjggNzkxIDcyNiAxNDU2IDE0NzkKMTc2MyAzOTcgMTYyIDgwMSAyMTUgMTI0MCAxNjF6Ii8+CjwvZz4KPC9zdmc+Cg==&logoColor=white" alt="koin badge"  />
+  <img src="https://img.shields.io/badge/Retrofit-161b22?style=for-the-badge&logo=square&logoColor=white" alt="retrofit badge"  />
+  <img src="https://img.shields.io/badge/JUnit_5-161b22?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5 badge"  />
+  <br>
+  <img src="https://img.shields.io/badge/glide-161b22?style=for-the-badge&logo=none&logoColor=white" alt="glide badge"  />
+  <img src="https://img.shields.io/badge/coil-161b22?style=for-the-badge&logo=none&logoColor=white" alt="coil badge"  />
+  <img src="https://img.shields.io/badge/orbit_mvi-161b22?style=for-the-badge&logo=none&logoColor=white" alt="orbit badge"  />
+  <img src="https://img.shields.io/badge/mockk-161b22?style=for-the-badge&logo=none&logoColor=white" alt="mockk badge"  />
 </div>
 
 ## Проекты
