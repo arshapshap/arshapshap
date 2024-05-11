@@ -1,5 +1,5 @@
 <h3 align="center">Android Developer</h3>
-
+  
 ###
 
 <div align="center">
@@ -9,8 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img src="https://github.com/arshapshap/arshapshap/assets/48681339/ca1205c6-6259-4e0e-9d54-a910f6c08daf" height="40" alt="database logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <h6 align="center">Clean Architecture &emsp; MVVM &emsp; MVI</h6>
-  <h6 align="center">Dagger 2 &emsp; Koin &emsp; Retrofit &emsp; Room</h6>
+  <h6 align="center">Clean Architecture &emsp; MVVM &emsp; MVI &emsp; Dagger 2 &emsp; Koin &emsp; Retrofit &emsp; Room</h6>
 </div>
 
 ## Проекты
