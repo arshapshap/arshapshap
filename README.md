@@ -43,24 +43,24 @@
 
 ###
 -->
+
+<!--
 <div align="center">
   
   <a href="https://t.me/raytmo/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  />
   </a>
-  <img width=4 />
   <a href="https://leetcode.com/u/umoyourt/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/800px-LeetCode_logo_white_no_text.svg.png?20200120234911" height="40" alt="leetcode logo"  />
   </a>
   
 </div>
 
-<!--
 ###
+-->
 <div align="center">
   
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/raytmo/)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/umoyourt/)
 
 </div>
--->
